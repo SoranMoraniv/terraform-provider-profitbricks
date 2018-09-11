@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/hashicorp/terraform/helper/schema"
-	"github.com/profitbricks/profitbricks-sdk-go"
+	"github.com/SoranMoraniv/profitbricks-sdk-go"
 )
 
 func resourceProfitBricksVolume() *schema.Resource {
